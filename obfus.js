@@ -1,4 +1,4 @@
-// obfus_no_nato.js
+// obfus.js
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
